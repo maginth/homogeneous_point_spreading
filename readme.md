@@ -19,7 +19,7 @@ neighbourhood is refresh, refresh depth follow a power distribution :
 ![preview](/images/Figure 9, limite pseudo distance.png?raw=true "preview")  
 ##Effect of an unsuitable repulsion force, and a better one :  
 ![preview](/images/Comparaison forces.png?raw=true "preview")  
-![preview](/images/fleure intéraction coulombienne.png?raw=true "preview")  
+![preview](/images/fleure intéraction coulombienne.png?raw=true "preview")
 ![preview](/images/fleure pseudo dist.png?raw=true "preview")  
 ##Effect of differant norms for the distances computation  :
 ![preview](/images/pizza classique.png?raw=true "preview")
