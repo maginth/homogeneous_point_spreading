@@ -1,10 +1,9 @@
 A method for homogeneous point spreading on surfaces 
 =============
 
-Ocaml academic research - Lycee Charlemagne 2010
-==============
+##Ocaml academic research - Lycee Charlemagne 2010
 
-*** This a description of the precess, not a documentation ***
+*This is a description of the process, not a documentation*  
 
 ![preview](/images/hérisson 500 points.png?raw=true "preview")
 ![preview](/images/intersection union exclusion.png?raw=true "preview")  
